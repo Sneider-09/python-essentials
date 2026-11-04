@@ -1,0 +1,8 @@
+# Pregunta 1: ¿Cuál es la salida del siguiente fragmento de código?
+print((2 ** 4), (2 * 4.), (2 * 4)) # 16, 8.0, 8
+
+# Pregunta 2: ¿Cuál es la salida del siguiente fragmento de código? 
+print((-2 / 4), (2 / 4), (2 // 4), (-2 // 4)) # -0.5, 0.5, 0, -1
+
+# Pregunta 3: ¿Cuál es la salida del siguiente fragmento de código?
+print((2 % -4), (2 % 4), (2 ** 3 ** 2)) # -2, 2, 512
