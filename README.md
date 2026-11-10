@@ -59,3 +59,7 @@ python-essentials/
 ## Propósito
 
 Este repositorio forma parte de mi formación en programación y sirve como registro de los conocimientos adquiridos, los ejercicios desarrollados y mi evolución en el aprendizaje de Python.
+
+## Documentación
+
+- **Módulos estándar de Python:** [Índice de Módulos en Python](https://docs.python.org/3/py-modindex.html)
