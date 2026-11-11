@@ -63,3 +63,5 @@ Este repositorio forma parte de mi formación en programación y sirve como regi
 ## Documentación
 
 - **Módulos estándar de Python:** [Índice de Módulos en Python](https://docs.python.org/3/py-modindex.html)
+- **Python Software Foundation:** [Packaging Working Group](https://wiki.python.org/psf/working-groups/Packaging.html)
+- **Python Package Index:** [PyPI](https://pypi.org/)
