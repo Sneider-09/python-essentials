@@ -66,3 +66,4 @@ Este repositorio forma parte de mi formación en programación y sirve como regi
 - **Python Software Foundation:** [Packaging Working Group](https://wiki.python.org/psf/working-groups/Packaging.html)
 - **Python Package Index:** [PyPI](https://pypi.org/)
 - **Procesamiento de caracteres:** [String Methods](https://docs.python.org/3.4/library/stdtypes.html#string-methods)
+- **Excepciones útiles:** [Biblioteca Estándar de Python](https://docs.python.org/3.6/library/exceptions.html)
