@@ -1,0 +1,22 @@
+def fun_r(n):
+    for i in range(n):
+        return i
+fun_r(5)
+    
+def fun_y(n):
+      for i in range(n):
+         yield i
+         
+for v in fun_y(5):
+    print(v)
+    
+
+def powers_of_2(n):
+    power = 1
+    for i in range(n):
+        yield power
+        power *= 2
+ 
+ 
+for v in powers_of_2(8):
+    print(v)
