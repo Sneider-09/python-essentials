@@ -69,3 +69,4 @@ Este repositorio forma parte de mi formación en programación y sirve como regi
 - **Excepciones útiles:** [Biblioteca Estándar de Python](https://docs.python.org/3.6/library/exceptions.html)
 - **Principio de responsabilidad única:** [Single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
 - **Guía de Estilo para Código Python:** [PEP 8](https://peps.python.org/pep-0008/#programming-recommendations)
+- **Dando formato a la fecha y hora:** [Directivas disponibles](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes)
